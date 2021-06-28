@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 ## 📫 Reach me out!
 <a href="https://www.linkedin.com/in/alejandro-rusca-moreno-59138b1a1/" target="_blank"><img width="20" height="20" src="./linkedin-icon.svg"></a>
 <a href="https://twitter.com/don_dropo" target="_blank"><img width="20" height="20" src="./twitter-icon.svg"></a>
-<a href="mailto:santiagopemo@gmial.com></a>
+<a href="mailto:santiagopemo@gmail.com><img width="20" height="20" src="./gmail-icon.svg"></a>
