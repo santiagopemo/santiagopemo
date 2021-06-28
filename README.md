@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <p width="100%" align="center">
 <a padding="30px" href="https://www.linkedin.com/in/santiago-pe%C3%B1a-mosquera-abaa20196/" target="_blank"><img width="30" height="30" src="./linkedin-icon.svg"></a>&nbsp;&nbsp;&nbsp;
 <a padding="30px" href="https://twitter.com/santiagopemo" target="_blank"><img width="30" height="30" src="./twitter-icon.svg"></a>&nbsp;&nbsp;&nbsp;
+  <a padding="30px" href="https://santiagopemo.medium.com/" target="_blank"><img width="30" height="30" src="./medium-icon.svg"></a>&nbsp;&nbsp;&nbsp;
 <a padding="30px" href="mailto:santiagopemo@gmail.com"><img width="30" height="30" src="./gmail-icon.svg"></a>
 </p>
 
