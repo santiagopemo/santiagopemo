@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### Mechatronic and Software engineer, lover of building new things from scratch, that's why my passion for programming, starting from an empty sheet and turning it into a solution for real problems.  
 ## 📫 Reach me out!
 <p width="100%" align="center">
-<a padding="30px" href="https://www.linkedin.com/in/santiago-pe%C3%B1a-mosquera-abaa20196/" target="_blank"><img width="30" height="30" src="./linkedin-icon.svg"></a>&nbsp;&nbsp;
-<a padding="30px" href="https://twitter.com/santiagopemo" target="_blank"><img width="30" height="30" src="./twitter-icon.svg"></a>&nbsp;&nbsp;
+<a padding="30px" href="https://www.linkedin.com/in/santiago-pe%C3%B1a-mosquera-abaa20196/" target="_blank"><img width="30" height="30" src="./linkedin-icon.svg"></a>&nbsp;&nbsp;&nbsp;
+<a padding="30px" href="https://twitter.com/santiagopemo" target="_blank"><img width="30" height="30" src="./twitter-icon.svg"></a>&nbsp;&nbsp;&nbsp;
 <a padding="30px" href="mailto:santiagopemo@gmail.com"><img width="30" height="30" src="./gmail-icon.svg"></a>
 </p>
