@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - :raised_hands: I'm currently learning React and Django
 - :punch: My goals is to cerate a social VR imersive experience 
 ## 👨🏽‍💻 Tecnologies 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiagopemo&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiagopemo&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📚 Latest Blog Post
 - <a href="https://santiagopemo.medium.com/what-is-face-detection-and-how-does-it-work-69e02943118b">What Is Face Detection And How Does It Work?</a>
