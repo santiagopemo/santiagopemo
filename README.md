@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 </p>
 
 ## 😄 About Me
-- 🔭 I’m into Virtual and Augmented Reality and videogames wtih Unity  
+- 🔭 I’m into Virtual and Augmented Reality and videogames development wtih Unity  
 - :raised_hands: I'm currently learning React and Django
 - :punch: My goals is to cerate a social VR imersive experience 
