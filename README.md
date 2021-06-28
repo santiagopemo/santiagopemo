@@ -30,12 +30,12 @@ Here are some ideas to get you started:
 - 🔭 I’m into Virtual and Augmented Reality and videogames development wtih Unity  
 - :raised_hands: I'm currently learning React and Django
 - :punch: My goals is to cerate a social VR imersive experience 
-## 👨🏽‍💻 Tecnologies 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiagopemo&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 📚 Latest Blog Post
 - <a href="https://santiagopemo.medium.com/what-is-face-detection-and-how-does-it-work-69e02943118b">What Is Face Detection And How Does It Work?</a>
 - <a href="https://santiagopemo.medium.com/ethical-challenges-in-ar-vr-b4a42975c240">Ethical Challenges in AR / VR</a>
 - <a href="https://santiagopemo.medium.com/liskovs-substitution-principle-7042e04fd3e1">Liskov’s Substitution Principle</a>
+## 👨🏽‍💻 Tecnologies 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiagopemo&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📈 GitHub Stats
 [![Santiagos's GitHub stats](https://github-readme-stats.vercel.app/api?username=santiagopemo)](https://github.com/anuraghazra/github-readme-stats)
