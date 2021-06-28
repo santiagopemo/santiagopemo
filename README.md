@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 <img width="100%" height="aut0" src="./my_face.svg">
 
-## Mechatronic and software engineer, lover of building new things from scratch, that's why my passion for programming, starting from an empty sheet and turning it into a solution for real problems.  
+### Mechatronic and Software engineer, lover of building new things from scratch, that's why my passion for programming, starting from an empty sheet and turning it into a solution for real problems.  
