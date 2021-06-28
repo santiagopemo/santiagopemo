@@ -1,0 +1,653 @@
+<svg viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    * {
+    padding: 0;
+    margin: 0;
+}
+body {
+    background: transparent;
+}
+.outline {
+    width: 600px;
+    height: 600px;
+    background: #25A9FC;
+    padding: 30px;
+    border-radius: 50%;
+    position: relative;
+    margin: auto;
+    display: block;
+    margin-top: 5%;
+}
+
+.box {
+    position: relative;
+    margin: auto;
+    display: block;
+    margin-top: 5%;
+    width: 500px;
+    height: 500px;
+
+    background: #25A9FC;
+    /* border: solid 4px white; */
+    border-radius: 50%;
+    padding: 40px;
+}
+
+.head {
+    position: absolute;
+    width: 50%;
+    height: 68%;
+    top: calc(2% + ((100% - 68%) / 2));
+    left: calc((100% - 50%) / 2);;
+    background: #E0AC69;
+    border-radius: 68%/50%;
+    
+}
+
+.head-copy {
+    display: none;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background: #E0AC69;
+    border-radius: 65%/50%;
+    z-index: 2;
+}
+
+.ear-left {
+    position: absolute;
+    width: 20%;
+    height: 27%;
+    left: -10%;
+
+    top: calc(3% + (100% - 27%) / 2);
+    background: #A6BECF;
+    background: #E0AC69;
+    border-radius: 65%/50%;
+    z-index: 1;
+}
+
+.ear-right {
+    position: absolute;
+    width: 20%;
+    height: 27%;
+    right: -10%;
+
+    top: calc(3% + (100% - 27%) / 2);
+    background: #A6BECF;
+    background: #E0AC69;
+    border-radius: 65%/50%;
+    z-index: 1;
+}
+
+.eye-left {
+    position: absolute;
+    background: white;
+    background: #634e34;
+    background: #27354A;
+    width: calc(20% * 0.65);
+    height: calc(15% * 0.65);
+    
+    top: calc(-5% + (100% - (15% * 0.65)) / 2);
+    left: 22%;
+    border-radius: 50%;
+    z-index: 3;
+}
+.eye-right {
+    position: absolute;
+    background: white;
+    background: #634e34;
+    background: #27354A;
+    width: calc(20% * 0.65);
+    height: calc(15% * 0.65);
+
+    top: calc(-5% + (100% - (15% * 0.65)) / 2);
+    right: 22%;
+    border-radius: 50%;
+    z-index: 2;
+}
+
+.nose {
+    position: absolute;
+    background: #BE845F;
+    width: 22%;
+    height: 12%;
+    left: 38.5%;
+    top: 55%;
+    border-radius: 100%;
+    background: linear-gradient(0deg, #BE845F 50%, transparent 50%);
+    z-index: 4;
+}
+.mouth {
+    background: #27354A;
+    z-index: 3;
+    width: 40%;
+    height: 25%;
+    position: absolute;
+    top: 73%;
+    left: 30%;
+    border-radius: 5%/5%;
+    overflow: hidden;
+    clip-path: circle(55% at 50% 0%);
+}
+.teeth {
+    position: absolute;
+    width: 90%;
+    height: 28%;
+    background: #FFF;
+    left: 5%;
+    border-radius: 12%/50%;
+    top: -14%;
+}
+
+.tongue {
+    background: #F96870;
+    width: 60%;
+    height: 40%;
+    position: absolute;
+    left: 20%;
+    top: 40%;
+    border-radius: 100%;
+}
+.eyebrow-left {
+    width: 220%;
+    height: 120%;
+    background: transparent;
+    border-radius: 100%;
+    position: absolute;
+    /* border-top: solid 15px #27354A; */
+    border: solid 16px #27354A;
+    border-color: #27354A transparent transparent transparent;
+    /* border-bottom: none; */
+    top: -120%;
+    left: -120%;
+    transform: rotate(-10deg);
+
+}
+.eyebrow-right {
+    width: 220%;
+    height: 120%;
+    background: transparent;
+    border-radius: 100%;
+    position: absolute;
+    /* border-top: solid 15px #27354A; */
+    border: solid 16px #27354A;
+    border-color: #27354A transparent transparent transparent;
+    /* border-bottom: none; */
+    top: -120%;
+    right: -120%;
+    transform: rotate(10deg);
+}
+
+/* .hair-front {
+    background: transparent;
+    width: 100%;
+    height: 80%;
+    opacity: 1;
+    position: absolute;
+    top: 5%;
+    border-radius: 50%;
+    box-shadow: -0px -30px 0 8px #27354A;
+    z-index: 3;
+} */
+
+.hair-front {
+    background: #27354A;
+    width: 105%;
+    height: 75%;
+    opacity: 1;
+    position: absolute;
+    top: -7%;
+    left: -2.5%;
+    border-radius: 50%; 
+    z-index: 1;
+    box-shadow: -0 -1px 10px black;
+}
+.head-copy-small {
+    position: absolute;
+    background: #E0AC69;
+    width: 94%;
+    height: 94%;
+    left: 3%;
+    top: 3%;
+    border-radius: 65%/50%;
+    z-index: 2;
+}
+
+.hair-back {
+    z-index: 0;
+    background: transparent;
+    width: 120%;
+    height: 90%;
+    opacity: 1;
+    position: absolute;
+    top: -15%;
+    left: -10%;
+    border-radius: 50%; 
+}
+
+.hair-back-1 {
+    background: #27354A;
+    width: 30%;
+    height: 30%;
+    position: absolute;
+    top: -0%;
+    left: 35%;
+    border-radius: 50%; 
+}
+.hair-back-2 {
+    background: #27354A;
+    width: 30%;
+    height: 30%;
+    position: absolute;
+    top: 2%;
+    left: 25%;
+    border-radius: 50%; 
+}
+.hair-back-3 {
+    background: #27354A;
+    width: 30%;
+    height: 30%;
+    position: absolute;
+    top: 4%;
+    left: 15%;
+    border-radius: 50%; 
+}
+.hair-back-4 {
+    background: #27354A;
+    width: 30%;
+    height: 30%;
+    position: absolute;
+    top: 15%;
+    left: 0%;
+    border-radius: 50%; 
+}
+.hair-back-5 {
+    background: #27354A;
+    width: 30%;
+    height: 30%;
+    position: absolute;
+    top: 30%;
+    left:-5%;
+    border-radius: 50%; 
+}
+.hair-back-6 {
+    background: #27354A;
+    width: 30%;
+    height: 30%;
+    position: absolute;
+    top: 45%;
+    left:-2%;
+    border-radius: 50%; 
+}
+.hair-back-7 {
+    background: #27354A;
+    width: 30%;
+    height: 30%;
+    position: absolute;
+    top: 2%;
+    left: 50%;
+    border-radius: 50%; 
+}
+.hair-back-8 {
+    background: #27354A;
+    width: 30%;
+    height: 30%;
+    position: absolute;
+    top: 8%;
+    left: 60%;
+    border-radius: 50%; 
+}
+.hair-back-9 {
+    background: #27354A;
+    width: 30%;
+    height: 30%;
+    position: absolute;
+    top: 15%;
+    left: 65%;
+    border-radius: 50%; 
+}
+.hair-back-10 {
+    background: #27354A;
+    width: 30%;
+    height: 30%;
+    position: absolute;
+    top: 27%;
+    left: 74%;
+    border-radius: 50%;
+}
+.hair-back-11 {
+    background: #27354A;
+    width: 30%;
+    height: 30%;
+    position: absolute;
+    top: 40%;
+    left: 72%;
+    border-radius: 50%;
+}
+.hair-back-12 {}
+.hair-back-13 {}
+.hair-back-14 {}
+
+.glasses {
+    position: absolute;
+    width: 100%;
+    height: 25%;
+    
+    z-index: 4;
+    opacity: 1;
+    top: 35%;
+}
+.left-lens {
+    position: absolute;
+    height: 90%;
+    width: 37%;
+    border: solid 9px #18202a;
+    /* border: solid 8px #18202a; */
+    /* border-radius: 30px 30px 90px 90px; */
+    border-top-left-radius: 30%;
+    border-top-right-radius: 30%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    left: 3%;
+    box-shadow: 0px 3px 6px black;
+    background: rgba(246, 254, 255, 0.4);
+    overflow: hidden;
+}
+.right-lens {
+    position: absolute;
+    height: 90%;
+    width: 37%;
+    border: solid 9px #18202a;
+    /* border: solid 8px #18202a; */
+    /* border-radius: 30px 30px 90px 90px; */
+    border-top-left-radius: 30%;
+    border-top-right-radius: 30%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    right: 3%;
+    box-shadow: 0px 3px 6px black;
+    background: rgba(246, 254, 255, 0.4);
+    overflow: hidden;
+}
+.left-leg {
+    width: 10%;
+    height: 23%;
+    background: #18202a;
+    position: absolute;
+    top: 19%;
+    left: -4%;
+    border-top-left-radius: 20%;
+    border-bottom-left-radius: 20%;
+    /* box-shadow: 0px 3px 6px black; */
+}
+.right-leg {
+    width: 10%;
+    height: 23%;
+    background: #18202a;
+    position: absolute;
+    top: 19%;
+    right: -4%;
+    border-top-right-radius: 20%;
+    border-bottom-right-radius: 20%;
+    /* box-shadow: 0px 3px 6px black; */
+}
+.glasses-middle {
+    width: 8.5%;
+    height: 15%;
+    background: transparent;
+    position: absolute;
+    top: 20%;
+    right: 40.4%;
+    border-radius: 100%;
+    border: solid 15px #18202a;
+    border-color: #18202a transparent transparent transparent;
+    /* box-shadow: 0px 3px 10px black; */
+}
+.code1 {
+    position: absolute;
+    animation-name: slide1;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    font-weight: 700;
+    font-size: 0.5em;
+    color: rgb(100, 209, 36);
+    top: 120%;
+}
+
+
+@keyframes slide1 {
+    0% {
+        top: 120%;
+    }    
+    99.999999999% {
+        top: -600%;
+    }
+    100% {
+        top: 120%;
+    }
+
+}
+  </style>
+
+  <!-- <polygon points="0,0 1000,0 1000,1000 0,1000" /> -->
+
+  <!-- Common use case: embed HTML text into SVG -->
+  <foreignObject x="0" y="0" width="1000" height="1000">
+    <!--
+      In the context of SVG embedded in an HTML document, the XHTML
+      namespace could be omitted, but it is mandatory in the
+      context of an SVG document
+    -->
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <body>
+        <div class="outline">
+        <div class="box">
+            <div class="head">
+                
+                <div class="head-copy"></div>
+                <div class="head-copy-small"></div>
+                <div class="ear-left"></div>
+                <div class="ear-right"></div>
+                <div class="eye-left">
+                    <div class="eyebrow-left"></div>
+                    <div class="pupil"></div>
+                </div>
+                <div class="eye-right">
+                    <div class="eyebrow-right"></div>
+                    <div class="pupil"></div>
+                </div>
+                <div class="nose"></div>
+                <div class="mouth">                    
+                    <div class="teeth"></div>
+                    <div class="tongue"></div>
+                </div>
+                <div class="hair-front"></div>
+                <div class="hair-back">
+                    <div class="hair-back-1 hair-round"></div>
+                    <div class="hair-back-2 hair-round"></div>
+                    <div class="hair-back-3 hair-round"></div>
+                    <div class="hair-back-4 hair-round"></div>
+                    <div class="hair-back-5 hair-round"></div>
+                    <div class="hair-back-6 hair-round"></div>
+                    <div class="hair-back-7 hair-round"></div>
+                    <div class="hair-back-8 hair-round"></div>
+                    <div class="hair-back-9 hair-round"></div>
+                    <div class="hair-back-10 hair-round"></div>
+                    <div class="hair-back-11 hair-round"></div>
+                    <div class="hair-back-12 hair-round"></div>
+                    <div class="hair-back-13 hair-round"></div>
+                    <div class="hair-back-14 hair-round"></div>
+                </div>
+                <div class="glasses">
+                    <div class="left-lens">
+                        <div class="code1">
+                            <pre>
+private void SelectPlane()
+{
+    Touch touch = Input.GetTouch(0);
+    
+
+    if (touch.phase == TouchPhase.Began)
+    {
+        if (raycastManager.Raycast(touch.position, hits, TrackableType.PlaneWithinPolygon))
+        {
+            ARRaycastHit hit = hits[0];
+            selectedPlane =  planeManager.GetPlane(hit.trackableId);                
+            selectedPlane.GetComponent().positionCount = 0;
+
+            selectedPlane.GetComponent().material = PlaneOcclusionMaterial;
+            // SetMaterialTransparent(selectedPlane);
+            
+            foreach(ARPlane plane in planeManager.trackables)
+            {
+                if (plane != selectedPlane)
+                {
+                    plane.gameObject.SetActive(false);
+                }
+            }
+            planeManager.enabled = false;
+            selectPlaneCanvas.SetActive(false);
+            OnPlaneSelected?.Invoke(selectedPlane);
+        }
+    }
+}
+
+void SetMaterialTransparent(ARPlane plane)
+{        
+    foreach (Material material in plane.GetComponent().materials)
+    {
+        material.SetFloat("_Mode", 2);
+        material.SetInt("_SrcBlend", (int)UnityEngine.Rendering.BlendMode.SrcAlpha);
+        material.SetInt("_DstBlend", (int)UnityEngine.Rendering.BlendMode.OneMinusSrcAlpha);
+        material.SetInt("_ZWrite", 0);
+        material.DisableKeyword("_ALPHATEST_ON");
+        material.DisableKeyword("_ALPHABLEND_ON");
+        // material.DisableKeyword("_ALPHAPREMULTIPLY_ON");
+        material.renderQueue = 3000;
+    }
+}
+void PlanesFound(ARPlanesChangedEventArgs args)
+{
+    if (selectedPlane == null and planeManager.trackables.count > 0)
+    {
+        planeSearchingCanvas.SetActive(false);
+        selectPlaneCanvas.SetActive(true);
+        planeManager.planesChanged -= PlanesFound;
+    }
+}
+
+void PlaneSelected(ARPlane plane)
+{
+    planeSelectedSound.Play();
+    foreach (KeyValuePair, GameObject> target in targets)
+    {
+        Destroy(target.Value);
+    }
+    targets.Clear();
+
+    startButton.SetActive(true);
+    for (int i = 1; i = targetsNum; i++)
+    {
+        GameObject target = Instantiate(targetPrefab, plane.center, plane.transform.rotation, plane.transform);
+        target.GetComponent().StartMoving(plane);
+        target.GetComponent().ID = i;
+        target.GetComponent().OnTargetDestroy += UpdateGameWhenHitTarget;
+        targets.Add(i, target);
+    }
+}
+                            </pre>
+                        </div>
+                    </div>
+                    <div class="right-lens">
+                        <div class="code1">
+                            <pre>
+private void SelectPlane()
+{
+    Touch touch = Input.GetTouch(0);
+    
+
+    if (touch.phase == TouchPhase.Began)
+    {
+        if (raycastManager.Raycast(touch.position, hits, TrackableType.PlaneWithinPolygon))
+        {
+            ARRaycastHit hit = hits[0];
+            selectedPlane =  planeManager.GetPlane(hit.trackableId);                
+            selectedPlane.GetComponent().positionCount = 0;
+
+            selectedPlane.GetComponent().material = PlaneOcclusionMaterial;
+            // SetMaterialTransparent(selectedPlane);
+            
+            foreach(ARPlane plane in planeManager.trackables)
+            {
+                if (plane != selectedPlane)
+                {
+                    plane.gameObject.SetActive(false);
+                }
+            }
+            planeManager.enabled = false;
+            selectPlaneCanvas.SetActive(false);
+            OnPlaneSelected?.Invoke(selectedPlane);
+        }
+    }
+}
+
+void SetMaterialTransparent(ARPlane plane)
+{        
+    foreach (Material material in plane.GetComponent().materials)
+    {
+        material.SetFloat("_Mode", 2);
+        material.SetInt("_SrcBlend", (int)UnityEngine.Rendering.BlendMode.SrcAlpha);
+        material.SetInt("_DstBlend", (int)UnityEngine.Rendering.BlendMode.OneMinusSrcAlpha);
+        material.SetInt("_ZWrite", 0);
+        material.DisableKeyword("_ALPHATEST_ON");
+        material.DisableKeyword("_ALPHABLEND_ON");
+        // material.DisableKeyword("_ALPHAPREMULTIPLY_ON");
+        material.renderQueue = 3000;
+    }
+}
+void PlanesFound(ARPlanesChangedEventArgs args)
+{
+    if (selectedPlane == null and planeManager.trackables.count > 0)
+    {
+        planeSearchingCanvas.SetActive(false);
+        selectPlaneCanvas.SetActive(true);
+        planeManager.planesChanged -= PlanesFound;
+    }
+}
+
+void PlaneSelected(ARPlane plane)
+{
+    planeSelectedSound.Play();
+    foreach (KeyValuePair, GameObject> target in targets)
+    {
+        Destroy(target.Value);
+    }
+    targets.Clear();
+
+    startButton.SetActive(true);
+    for (int i = 1; i = targetsNum; i++)
+    {
+        GameObject target = Instantiate(targetPrefab, plane.center, plane.transform.rotation, plane.transform);
+        target.GetComponent().StartMoving(plane);
+        target.GetComponent().ID = i;
+        target.GetComponent().OnTargetDestroy += UpdateGameWhenHitTarget;
+        targets.Add(i, target);
+    }
+}
+                            </pre>
+                        </div>
+                    </div>
+                    <div class="left-leg"></div>
+                    <div class="right-leg"></div>
+                    <div class="glasses-middle"></div>
+                </div>
+                
+            </div>
+        </div>
+        </div>
+    </body>
+    </div>
+  </foreignObject>
+</svg>
