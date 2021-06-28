@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 ## 😄 About Me
 - 🔭 I’m into Virtual and Augmented Reality and videogames wtih Unity  
 - :raised_hands: I'm currently learning React and Django
-- :punch: One of my goals is to cerate a social VR imersive experiences 
+- :punch: My goals is to cerate a social VR imersive experience 
