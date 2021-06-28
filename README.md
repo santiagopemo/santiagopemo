@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 
 ### Mechatronic and Software engineer, lover of building new things from scratch, that's why my passion for programming, starting from an empty sheet and turning it into a solution for real problems.  
 ## 📫 Reach me out!
+<a href="https://www.linkedin.com/in/alejandro-rusca-moreno-59138b1a1/" target="_blank"><img width="20" height="20" src="./linkedin-icon.svg"></a>
+<a href="https://twitter.com/don_dropo" target="_blank"><img width="20" height="20" src="./twitter-icon.svg"></a>
+<a href="mailto:santiagopemo@gmial.com></a>
