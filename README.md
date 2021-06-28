@@ -31,4 +31,7 @@ Here are some ideas to get you started:
 - :punch: My goals is to cerate a social VR imersive experience 
 ## 👨🏽‍💻 Tecnologies 
 ## 📚 Latest Blog Post
+- <a href="https://santiagopemo.medium.com/what-is-face-detection-and-how-does-it-work-69e02943118b">What Is Face Detection And How Does It Work?</a>
+- <a href="https://santiagopemo.medium.com/ethical-challenges-in-ar-vr-b4a42975c240">Ethical Challenges in AR / VR</a>
+- <a href="https://santiagopemo.medium.com/liskovs-substitution-principle-7042e04fd3e1">Liskov’s Substitution Principle</a>
 ## 📈 GitHub Stats
