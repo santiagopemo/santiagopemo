@@ -36,3 +36,4 @@ Here are some ideas to get you started:
 - <a href="https://santiagopemo.medium.com/ethical-challenges-in-ar-vr-b4a42975c240">Ethical Challenges in AR / VR</a>
 - <a href="https://santiagopemo.medium.com/liskovs-substitution-principle-7042e04fd3e1">Liskov’s Substitution Principle</a>
 ## 📈 GitHub Stats
+[![Santiagos's GitHub stats](https://github-readme-stats.vercel.app/api?username=santiagopemo)](https://github.com/anuraghazra/github-readme-stats)
