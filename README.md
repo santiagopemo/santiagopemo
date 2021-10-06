@@ -66,6 +66,7 @@ Here are some ideas to get you started:
 	<details>
 		<summary>📈 GitHub Stats</summary>
 		<br/>
-		[![Santiagos's GitHub stats](https://github-readme-stats.vercel.app/api?username=santiagopemo)](https://github.com/anuraghazra/github-readme-stats)
+		
+		<img src="https://github-readme-stats.vercel.app/api?username=santiagopemo" alt="Git"/>
 	</details> 
 </h2>
