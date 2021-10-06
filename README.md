@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <!-- ## 👨🏽‍💻 Tecnologies  -->
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiagopemo&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <details>
-	<summary>👨🏽‍💻<b>Tecnologies</b></summary>
+	<summary font-size="150px">👨🏽‍💻<b>Tecnologies</b></summary>
 	<br/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/>
 	<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
