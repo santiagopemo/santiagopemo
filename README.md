@@ -37,23 +37,6 @@ Here are some ideas to get you started:
 ## 👨🏽‍💻 Tecnologies 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiagopemo&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<details>
-	<summary><h1>👨🏽‍💻<b>Tecnologies<h1></b></summary>
-	<br/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/>
-	<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
-	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-	<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="Csharp"/>
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="JavaScript"/>
-	<img src="https://img.shields.io/badge/typescript%20-%233178c6.svg?&style=for-the-badge&logo=typescript&logoColor=white" alt="HTML"/>
-	<img src="https://img.shields.io/badge/css3-%233573b5.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-	<img src="https://img.shields.io/badge/node%2Ejs-%2362af43.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
-	<img src="https://img.shields.io/badge/react-%2300c4e6.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-	<img src="https://img.shields.io/badge/nextjs-%230071f3.svg?&style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS"/>
-	<img src="https://img.shields.io/badge/mongodb-%2368a14a.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-	<img src="https://img.shields.io/badge/git-%23fc6d26.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-	<img src="https://img.shields.io/badge/material%20design-%23222222.svg?&style=for-the-badge&logo=material-design&logoColor=white" alt="Material Design"/>
-</details>
- -->
+
 ## 📈 GitHub Stats
 [![Santiagos's GitHub stats](https://github-readme-stats.vercel.app/api?username=santiagopemo)](https://github.com/anuraghazra/github-readme-stats)
