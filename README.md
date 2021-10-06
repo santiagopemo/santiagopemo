@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - <a href="https://santiagopemo.medium.com/liskovs-substitution-principle-7042e04fd3e1">Liskov’s Substitution Principle</a>
 <!-- ## 👨🏽‍💻 Tecnologies 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiagopemo&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-<h1>
+<h2>
 	<details>
 		<summary>👨🏽‍💻 Technologies</summary>
 		<br/>
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 		<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 		<img src="https://img.shields.io/badge/git-%23fc6d26.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>	
 	</details> 
-</h1>
+</h2>
 
 ## 📈 GitHub Stats
 [![Santiagos's GitHub stats](https://github-readme-stats.vercel.app/api?username=santiagopemo)](https://github.com/anuraghazra/github-readme-stats)
