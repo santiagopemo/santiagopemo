@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 	<details>
 		<summary>📈 GitHub Stats</summary>
 		<br/>
-		<img src="https://jf-gh-stats.vercel.app/api?username=santiagopemo&show_icons=true&count_private=true&title_color=afc2ef&icon_color=afc2ef&theme=react" alt="GitHub Stats" align="top"/>
+		<img src="https://jf-gh-stats.vercel.app/api?username=santiagopemo&show_icons=true&count_private=true&title_color=afc2ef&icon_color=afc2ef" alt="GitHub Stats" align="top"/>
 		
 	</details> 
 </h2>
