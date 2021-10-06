@@ -1,4 +1,4 @@
-<p width="100%" align="center"><h1>Hi I'am Santiago, Software Engineer <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1></p>
+<p width="100%" align="center"><h1>Hi I'am Santiago, Software Developer <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1></p>
 
 <!--
 **santiagopemo/santiagopemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -59,5 +59,13 @@ Here are some ideas to get you started:
 	</details> 
 </h2>
 
-## 📈 GitHub Stats
-[![Santiagos's GitHub stats](https://github-readme-stats.vercel.app/api?username=santiagopemo)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ## 📈 GitHub Stats
+[![Santiagos's GitHub stats](https://github-readme-stats.vercel.app/api?username=santiagopemo)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<h2>
+	<details>
+		<summary>📈 GitHub Stats</summary>
+		<br/>
+		[![Santiagos's GitHub stats](https://github-readme-stats.vercel.app/api?username=santiagopemo)](https://github.com/anuraghazra/github-readme-stats)
+	</details> 
+</h2>
