@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 - <a href="https://santiagopemo.medium.com/what-is-face-detection-and-how-does-it-work-69e02943118b">What Is Face Detection And How Does It Work?</a>
 - <a href="https://santiagopemo.medium.com/ethical-challenges-in-ar-vr-b4a42975c240">Ethical Challenges in AR / VR</a>
 - <a href="https://santiagopemo.medium.com/liskovs-substitution-principle-7042e04fd3e1">Liskov’s Substitution Principle</a>
-<!-- ## 👨🏽‍💻 Tecnologies  -->
-<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiagopemo&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-<details>
+## 👨🏽‍💻 Tecnologies 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiagopemo&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- <details>
 	<summary style="font-size=120px">👨🏽‍💻<b>Tecnologies</b></summary>
 	<br/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/>
@@ -53,6 +53,6 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/git-%23fc6d26.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 	<img src="https://img.shields.io/badge/material%20design-%23222222.svg?&style=for-the-badge&logo=material-design&logoColor=white" alt="Material Design"/>
 </details>
-
+ -->
 ## 📈 GitHub Stats
 [![Santiagos's GitHub stats](https://github-readme-stats.vercel.app/api?username=santiagopemo)](https://github.com/anuraghazra/github-readme-stats)
