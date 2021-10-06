@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 - :raised_hands: I'm currently learning Node JS
 - :punch: My goals is to create a social VR imersive experience 
 ## 📚 Latest Blog Post
+- <a href="https://santiagopemo.medium.com/porting-a-vr-application-from-google-cardboard-to-oculus-quest-53a52a8e0f7b">Porting A VR Application From Google Cardboard to Oculus Quest</a>
+- <a href="https://arvrjourney.com/a-gentle-introduction-to-webxr-d5111304a870">A Gentle Introduction To WebXR</a>
 - <a href="https://santiagopemo.medium.com/what-is-face-detection-and-how-does-it-work-69e02943118b">What Is Face Detection And How Does It Work?</a>
 - <a href="https://santiagopemo.medium.com/ethical-challenges-in-ar-vr-b4a42975c240">Ethical Challenges in AR / VR</a>
 - <a href="https://santiagopemo.medium.com/liskovs-substitution-principle-7042e04fd3e1">Liskov’s Substitution Principle</a>
