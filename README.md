@@ -67,6 +67,6 @@ Here are some ideas to get you started:
 		<summary>📈 GitHub Stats</summary>
 		<br/>
 		<img src="https://jf-gh-stats.vercel.app/api?username=santiagopemo&show_icons=true&count_private=true&title_color=afc2ef&icon_color=afc2ef" alt="GitHub Stats" align="top"/>
-		<img src="https://jf-gh-stats.vercel.app/api/top-langs/?username=santiagopemo&layout=compact&hide=java&title_color=afc2ef&icon_color=afc2ef" alt="GitHub Top Languages" align="top"/>
+		<img src="https://jf-gh-stats.vercel.app/api/top-langs/?username=santiagopemo&layout=compact&hide=java&title_color=afc2ef&icon_color=afc2ef&langs_count=10" alt="GitHub Top Languages" align="top"/>
 	</details> 
 </h2>
